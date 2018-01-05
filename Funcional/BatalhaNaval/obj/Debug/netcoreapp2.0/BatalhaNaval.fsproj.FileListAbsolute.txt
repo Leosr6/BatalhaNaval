@@ -1,0 +1,16 @@
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.deps.json
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.runtimeconfig.json
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.runtimeconfig.dev.json
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.dll
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.pdb
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.fsprojResolveAssemblyReference.cache
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.dll
+C:\Users\I860980\Desktop\BatalhaNaval\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.pdb
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.deps.json
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.runtimeconfig.json
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.runtimeconfig.dev.json
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.dll
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\bin\Debug\netcoreapp2.0\BatalhaNaval.pdb
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.fsprojResolveAssemblyReference.cache
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.dll
+C:\Users\I860980\Desktop\Funcional\BatalhaNaval\obj\Debug\netcoreapp2.0\BatalhaNaval.pdb
