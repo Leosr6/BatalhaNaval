@@ -19,7 +19,7 @@ type Point(x : int, y : int) =
         | :? Point as b -> a.getX() = b.getX() && a.getY() = b.getY()
         | _ -> false
 
-    member this.teste() =
+    member this.printCoordinates() =
         printf "%d, %d\n" posx posy
 
 [<AbstractClass>]
@@ -37,9 +37,9 @@ type Object(cobject : char, position : List<Point>) =
 
     abstract member getName : unit -> string
 
-    member this.teste() =
+    member this.printPosition() =
         PositionList.ForEach(fun elem ->
-            elem.teste())
+            elem.printCoordinates())
 
 type Mine(position : List<Point>) = 
     inherit Object('m', position)
@@ -123,9 +123,9 @@ type Board(objects : List<Object>) =
                 printf "Nothing was hit\n"
                 false
 
-    member this.teste() =
+    member this.printBoard() =
        Objects.ForEach(fun elem ->
-            elem.teste())
+            elem.printPosition())
 
     new() =
         Board(new List<Object>())
@@ -175,5 +175,5 @@ Board.createShip()
 Board.createShip()
 Board.createShip()
 
-Board.teste()
+Board.printBoard()
 playGame(Board)

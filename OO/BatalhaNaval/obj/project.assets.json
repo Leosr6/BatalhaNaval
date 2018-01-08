@@ -4343,11 +4343,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\I860980\\Desktop\\OO\\BatalhaNaval\\BatalhaNaval.fsproj",
+      "projectUniqueName": "C:\\Users\\I860980\\Desktop\\BatalhaNaval\\OO\\BatalhaNaval\\BatalhaNaval.fsproj",
       "projectName": "BatalhaNaval",
-      "projectPath": "C:\\Users\\I860980\\Desktop\\OO\\BatalhaNaval\\BatalhaNaval.fsproj",
+      "projectPath": "C:\\Users\\I860980\\Desktop\\BatalhaNaval\\OO\\BatalhaNaval\\BatalhaNaval.fsproj",
       "packagesPath": "C:\\Users\\I860980\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\I860980\\Desktop\\OO\\BatalhaNaval\\obj\\",
+      "outputPath": "C:\\Users\\I860980\\Desktop\\BatalhaNaval\\OO\\BatalhaNaval\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
